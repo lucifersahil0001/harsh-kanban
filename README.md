@@ -9,27 +9,27 @@ Each work item is represented by a card that is placed on the board. As the work
 The main goal of this project is to help individuals or teams organize their work, track progress, and collaborate efficiently.
 
 ## Features
-Create multiple boards to manage different projects or workflows.
-Add custom columns to each board to reflect your specific workflow stages.
-Create, edit, and delete cards within each column to represent tasks.
-Drag and drop cards across columns to update their status or progress.
-Assign labels, due dates, and priorities to cards for better organization.
-Collaborate with team members by sharing boards and assigning tasks.
+1. Create multiple boards to manage different projects or workflows.
+2. Add custom columns to each board to reflect your specific workflow stages.
+3. Create, edit, and delete cards within each column to represent tasks.
+4. Drag and drop cards across columns to update their status or progress.
+5. Assign labels, due dates, and priorities to cards for better organization.
+6. Collaborate with team members by sharing boards and assigning tasks.
 
 ## Tech Stack
 
-React-JS
-Packages: React DnD or react-beautiful-dnd
-Material UI
-React Icons
-React Router
+- React-JS
+- Packages: React DnD or react-beautiful-dnd
+- Material UI
+- React Icons
+- React Router
 
 ## Deployment link
 
 ## Collaborators
 
-Ayush Wasnik
-Harsh Gupta
-Saurabh Sakhare
-Ashwini Karadge
+- Ayush Wasnik {fn-tec-43KHP} Github Link - https://github.com/AyushW07
+- Harsh Gupta
+- Saurabh Sakhare
+- Ashwini Karadge
 
