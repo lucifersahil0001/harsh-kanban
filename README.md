@@ -1,4 +1,4 @@
-# KANBAN-PROJECT
+# KANBAN-BOARD
 A Kanban board project helps you manage tasks and workflows effectively. They help teams visualize their work, identify bottlenecks, and continuously improve their processes.
 
 ## Project Overview
