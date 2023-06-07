@@ -30,6 +30,6 @@ The main goal of this project is to help individuals or teams organize their wor
 
 - Ayush Wasnik {fn-tec-43KHP} Github Link - https://github.com/AyushW07
 - Harsh Gupta
-- Saurabh Sakhare
+- Saurabh Sakhare {fn-tec-41YHG} Github Link - https://github.com/Saurabh0241
 - Ashwini Karadge
 
