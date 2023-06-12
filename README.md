@@ -29,6 +29,6 @@ The main goal of this project is to help individuals or teams organize their wor
 ## Collaborators
 
 - Ayush Wasnik {fn-tec-43KHP} Github Link - https://github.com/AyushW07
-- Harsh Gupta
+- Harsh Gupta   {fn-tec-26KRJ}  Github Link - https://github.com/lucifersahil0001
 - Saurabh Sakhare {fn-tec-41YHG} Github Link - https://github.com/Saurabh0241
 
