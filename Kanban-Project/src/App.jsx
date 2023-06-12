@@ -60,7 +60,7 @@ const onDragEnd = (result, columns, setColumns, setCount, count) => {
   }
   const { source, destination } = result;
 
-  // ! moving list
+  // * moving list
   if (result.type == "COLUMN") {
     const copiedItems = JSON.parse(JSON.stringify(columns));
     const [removed] = copiedItems.splice(source.index, 1);
@@ -71,7 +71,7 @@ const onDragEnd = (result, columns, setColumns, setCount, count) => {
     return;
   }
 
-  // ! moving task to same list
+  // * moving task to same list
   if (source.droppableId === destination.droppableId) {
     let dragedTaskList = columns.find(
       (list) => list.ListId == source.droppableId
@@ -98,7 +98,7 @@ const onDragEnd = (result, columns, setColumns, setCount, count) => {
     }
   }
 
-  // ! moving task to different list
+  // * moving task to different list
 
   let sourceTaskList = columns.find(
     (list) => list.ListId == source.droppableId
