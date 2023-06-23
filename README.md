@@ -25,7 +25,7 @@ The main goal of this project is to help individuals or teams organize their wor
 - React Router
 
 ## Deployment link
-Demo : 
+Demo : https://kanban-project-theta.vercel.app
 
 ## Collaborators
 
